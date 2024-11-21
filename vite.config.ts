@@ -4,7 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/OrangeWorkLog/',
+  base: '/Step_on_landmines/',
   plugins: [
     react(),
     VitePWA({
